@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">CraveFactory</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password1">Password</string>
+    <string name="username">Username</string>
+    <string name="welcome">WELCOME TO KHANA KHASANAAA!!</string>
+    <string name="register_here">Register Here</string>
+    <string name="order">Order Yours!</string>
+    <string-array name="food">
+        <item>Zucchini slice</item>
+        <item>Pumpkin soup</item>
+        <item>Fried rice</item>
+        <item>Shepherd pie</item>
+        <item>Quiche</item>
+        <item>Lasagne</item>
+        <item>Thai salad</item>
+        <item>Sausages</item>
+        <item>Basic chicken</item>
+        <item>San choy bau</item>
+    </string-array>
+    <string name="price">PRICE :-</string>
+    <string name="price_f1">100/-</string>
+    <string name="price_f2">200/-</string>
+    <string name="price_f3">300/-</string>
+    <string name="price_f4">400/-</string>
+    <string name="price_f5">500/-</string>
+    <string name="price_f6">600/-</string>
+    <string name="price_f7">700/-</string>
+    <string name="price_f8">800/-</string>
+    <string name="price_f9">900/-</string>
+    <string name="price_f10">1000/-</string>
+
+
+    <string name="Zucchini_slice">
+Requirements:-\n
+5 eggs\n
+150g (1 cup) self-raising flour, sifted\n
+375g zucchini, grated\n
+1 large onion, finely chopped\n
+200g rindless bacon, chopped\n
+1 cup grated cheddar cheese\n
+60ml (1/4 cup) vegetable oil\n
+
+
+    </string>
+    <string name="action_settings" />
+    <string name="Pumpkin_soup">
+Requirements:-\n
+2 tbsp olive oil\n
+1 onion, finely chopped\n
+1 leek, white part only, finely sliced\n
+1 garlic clove, crushed\n
+1/2 tsp ground coriander\n
+1 tsp ground cumin\n
+1/2 tsp freshly grated nutmeg\n
+1kg peeled pumpkin, diced\n
+1 large potato, peeled, diced\n
+1L Massel chicken style liquid stock or vegetable liquid stock\n
+1/2 cup (125ml) thin cream\n
+    </string>
+    <string name="Fried_rice">
+        Requirements:-\n
+1 cup white long-grain rice\n
+2 tsp vegetable oil\n
+2 eggs, lightly whisked\n
+2 bacon rashers, chopped\n
+1 carrot, peeled and grated\n
+2 shallots, trimmed, finely sliced\n
+1/2 cup frozen peas, thawed\n
+1 tbsp soy sauce\n
+Sesame seeds, to serve\n
+Shallots, sliced, extra, to serve\n
+    </string>
+
+    <string name="Shepherd_pie">
+Requirements:-\n
+1 tbsp olive oil\n
+1 brown onion, halved, finely chopped\n
+1 carrot, peeled, finely chopped\n
+2 celery sticks, trimmed, finely chopped\n
+1 tbsp tomato paste\n
+500g lamb mince\n
+Salt and freshly ground black pepper\n
+2 tbsp plain flour\n
+500ml (2 cups) Massel beef style stock\n
+1 tbsp worcestershire sauce\n
+1 bay leaf\n
+4 (about 200g each) desiree potatoes, peeled, chopped\n
+40g butter\n
+125ml (1/2 cup) milk\n
+Melted butter, to brush\n
+    </string>
+    <string name="Quiche">
+   Requirements:-\n
+125g ham, chopped\n
+1 small onion, finely chopped\n
+1 1/2 cups (180g) grated Devondale Tasty Cheese Block (500g)\n
+1/3 cup (50g) self-raising flour\n
+Salt and freshly ground pepper, to season\n
+4 eggs\n
+1 1/2 cups (375ml) milk\n
+    </string>
+    <string name="Lasagne">
+Requirements:-\n
+2 tsp olive oil\n
+1 brown onion, halved, finely chopped\n
+2 garlic cloves, crushed\n
+2 x 400g cans Italian diced tomatoes\n
+125ml (1/2 cup) dry red wine\n
+55g (1/4 cup) tomato paste\n
+Salt and freshly ground black pepper\n
+Olive oil, extra, to grease\n
+4 fresh lasagne sheets\n
+55g (1/2 cup) coarsely grated Devondale Mozzarella Cheese Block (500g)\n
+Mixed salad leaves, to serve\n
+cheese sauce\n
+    </string>
+    <string name="Thai_salad">
+        Requirements:-\n
+     1 1/2 tbsp fresh lime juice\n
+1 garlic clove, crushed\n
+1 tbsp finely chopped palm sugar\n
+1 tbsp fish sauce\n
+2 tsp sesame oil\n
+1 tsp soy sauce\n
+2 tsp finely grated fresh ginger\n
+1 x 200g pkt grape tomatoes, quartered\n
+1 continental cucumber, halved lengthways, thinly sliced diagonally\n
+1 red onion, halved, cut into thin wedges\n
+2 long fresh red chillies, halved, deseeded, thinly sliced lengthways\n
+1 bunch fresh mint, leaves picked, large leaves torn\n
+1 bunch fresh coriander, leaves picked\n
+1 bunch fresh Thai basil, leaves picked, large leaves torn\n
+    </string>
+    <string name="Sausages">
+      Requirements:-\n
+1 tbsp olive oil\n
+800g thin beef sausages\n
+1 large brown onion, thinly sliced\n
+2 carrots, peeled, thinly sliced\n
+2 garlic cloves, crushed\n
+1 tbsp KEEN Traditional Curry Powder\n
+2 tbsp fruit chutney\n
+2 cups Massel chicken style liquid stock\n
+1 cup frozen peas\n
+Steamed rice, to serve\n
+Parsley leaves, to serve\n
+    </string>
+    <string name="Basic_chicken">
+   Requirements:-\n
+2 tbsp peanut oil\n
+3 Lilydale Free Range Chicken Breast, trimmed, cut across the grain into thin strips\n
+1 brown onion, cut into thin wedges\n
+1 red capsicum, deseeded, cut into thin strips\n
+250g button mushrooms or mushroom caps, sliced\n
+1 bunch broccolini, cut into 4cm lengths\n
+2cm piece fresh ginger, peeled, finely grated or chopped\n
+2 garlic cloves, finely chopped\n
+2 fresh birdseye chillies, deseeded if desired, thinly sliced\n
+2 tbsp salt-reduced soy sauce\n
+1 1/2 tbsp oyster sauce\n
+1 tbsp water\n
+100g bean sprouts, to serve\n
+Coriander leaves, to serve\n
+Cooked white rice or noodles, to serve\n
+    </string>
+    <string name="San_choy_bau">
+Requirements:-\n
+1 tbsp peanut oil\n
+2 garlic cloves, crushed\n
+2cm piece ginger, finely grated\n
+500g lean pork mince\n
+1 tbsp soy sauce\n
+2 tbsp oyster sauce\n
+3 shallots, thinly sliced\n
+1/2 lime, juiced\n
+1 tsp sesame oil\n
+1 cup beansprouts, trimmed\n
+12 large lettuce leaves\n
+1/4 cup fresh coriander leaves\n
+1/4 cup chopped roasted peanuts\n
+    </string>
+    <string name="order2">Order Now</string>
+    <string name="cart">Add to Cart</string>
+</resources>
